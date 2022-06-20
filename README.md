@@ -1,11 +1,18 @@
 # 👋 Hi there, I'm Susana 
+👂 _soo - SAH - nah_ <br>
+🧚‍♀️ she/her
+
+I currently work at [Dutchie](https://dutchie.com/careers) where I contribute to our B2B operations and co-lead our Pride Employee Resource Group. Previously, I worked at [Target](https://www.target.com/redcard/about) 🎯 on their digital experience and as a pillar-lead for the [Hispanic Latino Business Council](https://corporate.target.com/sustainability-ESG/diversity-equity-inclusion/team-members-guests/hispanic-latino).
+
+You can learn more about me on [Linkedin](https://www.linkedin.com/in/sfotu). 
 
 <!--
 **susanafotu/susanafotu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
