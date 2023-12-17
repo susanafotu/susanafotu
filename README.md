@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Susana 
 👂 _soo - SAH - nah_ <br>
-🧚‍♀️ she/her
+🧚‍♀️ she/her 
 
-I currently work at [Dutchie](https://dutchie.com/careers), contributing to our B2B operations and leading our Pride Employee Resource Group. Previously, I worked at [Target](https://www.target.com/redcard/about) 🎯 on their digital experience and design system. I also acted as a pillar-lead for the [Hispanic Latino Business Council](https://corporate.target.com/sustainability-ESG/diversity-equity-inclusion/team-members-guests/hispanic-latino).
+I currently work at [Dutchie](https://dutchie.com/careers), where I helped build out our Ecommerce system and currently am the Engineering Manager for Dutchie Ads. Additionally, I am one of 3 co-leads for our Pride Employee Resource Group. Previously, I worked at [Target](https://www.target.com/redcard/about) 🎯 on their digital experience and design system. I also acted as a pillar-lead for the [Hispanic Latino Business Council](https://corporate.target.com/sustainability-ESG/diversity-equity-inclusion/team-members-guests/hispanic-latino).
 
 You can learn more about me on [Linkedin](https://www.linkedin.com/in/sfotu). 
 
