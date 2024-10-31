@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Susana 
-👂 _soo - SAH - nah_ <br>
+👂 _soo - SAW - nah_ <br>
 🧚‍♀️ she/her 
 
-I currently work at [Dutchie](https://dutchie.com/careers), where I am the Engineering Manager over a team of 6 building out Dutchie's Media Network. Previously I was a senior software engineer and helped build and improve our Ecommerce system. <br><br> As one of three co-leads for Dutchie's Pride Employee Resource Group, I have experience fostering community and a sense of belong through company wide educational programming and events. In a past life, I worked at [Target](https://www.target.com/redcard/about) 🎯 as a Senior Front End Engineer on their digital experience and design system. I spent my free time as a pillar-lead for the [Hispanic Latino Business Council](https://corporate.target.com/sustainability-ESG/diversity-equity-inclusion/team-members-guests/hispanic-latino).
+I currently work at [Rewiring America](https://rewiringamerica.org/), where I am Engineering Manager over the [Personal Electrification Planner](https://homes.rewiringamerica.org/) team and provide technical leadership on our localization program. Previously, I worked at [Dutchie](https://dutchie.com/careers), where I was the EM for the team building out Dutchie's Media Network. Prior to that, I was a senior software engineer and helped build and improve Dutchie's Ecommerce system. <br><br> As one of three co-leads for Dutchie's Pride Employee Resource Group, I have experience fostering community and a sense of belong through company wide educational programming and events. In a past life, I worked at [Target](https://www.target.com/redcard/about) 🎯 as a Senior Front End Engineer on their digital experience and design system. I spent my free time as a pillar-lead for the [Hispanic Latino Business Council](https://corporate.target.com/sustainability-ESG/diversity-equity-inclusion/team-members-guests/hispanic-latino).
 
 You can learn more about me on [Linkedin](https://www.linkedin.com/in/sfotu). 
 
